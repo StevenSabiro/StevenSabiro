@@ -4,7 +4,7 @@ I am a junior Front-end developer from Uzbekistan. I am high-school student gett
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@stevensabiro) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@stevensabiro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stevensabiro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stevensabiro) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/stevensabiro) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@stevensabiro)
-<a href="https://t.me/stevensabirolife"><img style="max-width: 150px; width:100%;" src="https://ibcjitendra.com/wp-content/uploads/2023/01/Join-Telegram-Channel.png" alt=""></a>
+<a href="https://t.me/stevensabirolife"><img style="max-width: 150px;" src="https://ibcjitendra.com/wp-content/uploads/2023/01/Join-Telegram-Channel.png" alt=""></a>
 
 
 # 💻 Tech Stack:
